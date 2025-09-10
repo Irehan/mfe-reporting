@@ -2,7 +2,7 @@
   "name": "reporting-app",
   "displayName": "Reporting",
   "scope": "reportingApp",
-  "url": "http://localhost:3003/remoteEntry.js",
+  "url": "https://arh-mfe-reporting.vercel.app/remoteEntry.js",
   "routes": ["/reports"],
   "roles": ["admin"],
   "modules": ["./ReportDashboard"]
