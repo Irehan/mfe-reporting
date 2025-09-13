@@ -1,6 +1,3 @@
-// Minimal ambient declarations so TS understands import.meta.env
-// without depending on vite/client types.
-
 interface ImportMetaEnv {
   readonly DEV?: boolean;
   readonly PROD?: boolean;
